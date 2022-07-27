@@ -37,9 +37,7 @@ def extractor(file_path, file_format):
         return pp        
         
         #now we need to create parser for patient class. we use parser for extracting text to parserthem into list.
-        pass
-
-    
+        pass   
 if __name__ == "__main__":
     extracted = extractor(file_path=file,file_format='patient')
     
