@@ -8,3 +8,4 @@
   in testdata folder of tesseract
 6. backend work : Done
 7. frontend : pending
+8. multi-page pdf support - pending
